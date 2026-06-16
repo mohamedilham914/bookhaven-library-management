@@ -55,16 +55,35 @@ BookHaven is a modern, responsive library management web app built with React, T
 
 ## Screenshots
 
-- ![Library](./Images-Screenshots/sign-in-page.png)
-- ![Library](./Images-Screenshots/sign-up-page.png)
-- ![Library](./Images-Screenshots/library.png)
-- ![Book Details](./Images-Screenshots/book-details.png)
-- ![Dashboard](./Images-Screenshots/dashboard.png)
-- ![Library](./Images-Screenshots/Wishlist-page.png)
-- ![Library](./Images-Screenshots/admin-panel.png)
-- ![Library](./Images-Screenshots/Analytics-page.png)
-- ![Library](./Images-Screenshots/dark-mode.png)
-- ![Library](./Images-Screenshots/light-mode.png)
+**Sign In Page**
+![Sign In](./Images-Screenshots/sign-in-page.png)
+
+**Sign Up Page**
+![Sign Up](./Images-Screenshots/sign-up-page.png)
+
+**Library Browse**
+![Library](./Images-Screenshots/library.png)
+
+**Book Details**
+![Book Details](./Images-Screenshots/book-details.png)
+
+**User Dashboard**
+![Dashboard](./Images-Screenshots/dashboard.png)
+
+**Wishlist Page**
+![Wishlist](./Images-Screenshots/Wishlist-page.png)
+
+**Admin Panel**
+![Admin Panel](./Images-Screenshots/admin-panel.png)
+
+**Analytics Page**
+![Analytics](./Images-Screenshots/Analytics-page.png)
+
+**Dark Mode**
+![Dark Mode](./Images-Screenshots/dark-mode.png)
+
+**Light Mode**
+![Light Mode](./Images-Screenshots/light-mode.png)
 
 | Library Browse                               | Book Details                                           |
 | -------------------------------------------- | ------------------------------------------------------ |
@@ -125,17 +144,6 @@ npm run build    # Build for production
 npm run preview  # Preview the production build locally
 npm run lint     # Run ESLint
 ```
-
-## Demo Accounts
-
-The app comes with two seeded accounts for testing:
-
-| Role  | Email               | Password |
-| ----- | ------------------- | -------- |
-| Admin | admin@bookhaven.com | admin123 |
-| User  | john@example.com    | user123  |
-
-A "Quick Admin Login" button on the sign-in screen fills in the admin credentials automatically. You can also register a new account from the sign-up form.
 
 ## Accounts & Roles
 
