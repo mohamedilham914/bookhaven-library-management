@@ -1,0 +1,23 @@
+export const genres = [
+  'All Genres',
+  'Classic Literature',
+  'Science Fiction',
+  'Fantasy',
+  'Mystery',
+  'Romance',
+  'Thriller',
+  'Non-Fiction',
+  'Biography',
+  'History',
+  'Young Adult',
+  'Horror',
+  'Philosophy',
+  'Adventure',
+  'Drama',
+  'Post-Apocalyptic',
+  'Satire',
+  'Dystopian Fiction',
+  'Magical Realism',
+  'Literary Fiction',
+  'Beat Literature'
+];
